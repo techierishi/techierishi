@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techierishi" alt="techierishi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/techierishi](https://github.com/techierishi?tab=repositories)]([https://github.com/techierishi](https://github.com/techierishi?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/techierishi](https://github.com/techierishi?tab=repositories)
 
 - 📫 How to reach me **rishi1147@gmail.com**
 
