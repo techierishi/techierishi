@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/techierishi">website</a>
+	<a href="https://techierishi.github.io">website</a>
 </p>
 
 ![alt text](./images/bottom_r.svg)
