@@ -1076,7 +1076,7 @@
          id="tspan3571"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#2c5aa0;stroke-width:0.75"
          x="193.34744"
-         y="409.58896">*void</tspan></text><image
+         y="409.58896">void*</tspan></text><image
        width="106.7161"
        height="106.71611"
        preserveAspectRatio="none"
